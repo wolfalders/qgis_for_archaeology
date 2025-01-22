@@ -1,1 +1,1 @@
-data for QGIS modules, copyright Wolfgang Alders 2024
+data for QGIS modules, copyright Wolfgang Alders 2024-25
